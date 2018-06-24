@@ -1,4 +1,4 @@
-A Reference to basic javascript (vailla) concenpts
+A Reference to basic javascript (vanilla) concenpts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0 and angular 4.x.
 
